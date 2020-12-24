@@ -1,4 +1,4 @@
 ## Snake and Apple Game
 Created a very simple Snake and apple Game using Python's PyGame Module
 
-![pic.png](Pygame/pic.png)
+![pic.png](/pic.png)
